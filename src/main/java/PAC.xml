@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<producteurs xmlns="urn:x-telepac:fr.gouv.agriculture.telepac:echange-producteur" xmlns:gml="http://www.opengis.net/gml"><producteur numero-pacage="027002984" campagne="Courante">
+ <demandeur>
+  <identification-individuelle conjoint-exploitant-individuel="false" conjoint-exploitant-societe="false">
+   <identite>
+    <civilite>Monsieur</civilite>
+    <nom>DUVAL</nom>
+    <prenoms>Hubert</prenoms>
+   </identite>
+   <naissance>
+    <date>1954-12-11</date>
+   </naissance>
+  </identification-individuelle>
+  <siret>39827912500015</siret>
+  <telephone>0232372023</telephone>
+  <iban compte-iban="FR7618306002280480517800188" bic="AGRIFRPP883" titulaire="DUVAL HUBERT" />
+  <adresse-permanente>
+   <ligne2>17 ROUTE DE DAMVILLE</ligne2>
+   <code-postal>27220</code-postal>
+   <commune>LES AUTHIEUX</commune>
+  </adresse-permanente>
+  <adresse-exploitation>
+   <code-postal>27220</code-postal>
+   <commune>LES AUTHIEUX</commune>
+  </adresse-exploitation>
+ </demandeur>
+ <rpg>
+  <ilot numero-ilot="2">
+   <commune>27027</commune>
+   <surface-reference>1877</surface-reference>
+   <geometrie>
+
+    <gml:Polygon srsName='0'>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing srsName='0'>
+      <gml:coordinates>
+571556.82,6868148.133 572039.601,6868264.676
+        571844.298,6868625.838 571383.251,6868480.141
+        571556.82,6868148.133
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+
+   </geometrie>
+   <parcelles>
+    <parcelle>
+     <s2 numero-parcelle="2" localisee-indicative="true">
+      <culture code-culture="BH" />
+      <surface-declaree>1477</surface-declaree>
+     </s2>
+     <geometrie>
+
+      <gml:Polygon srsName='0'>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing srsName='0'>
+      <gml:coordinates>
+571740.189,6868479.268 571750.189,6868479.268
+        571750.189,6868489.268 571740.189,6868489.268
+        571740.189,6868479.268
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+
+     </geometrie>
+    </parcelle>
+    <parcelle>
+     <s2 numero-parcelle="1" localisee-indicative="true">
+      <culture code-culture="CH" />
+      <surface-declaree>400</surface-declaree>
+     </s2>
+     <geometrie>
+
+      <gml:Polygon srsName='0'>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing srsName='0'>
+      <gml:coordinates>
+571498.699,6868354.517 571508.699,6868354.517
+        571508.699,6868364.517 571498.699,6868364.517
+        571498.699,6868354.517
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+
+     </geometrie>
+    </parcelle>
+   </parcelles>
+  </ilot>
+  <ilot numero-ilot="3">
+   <commune>27027</commune>
+   <surface-reference>600</surface-reference>
+   <geometrie>
+
+    <gml:Polygon srsName='0'>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing srsName='0'>
+      <gml:coordinates>
+570628.545,6867539.301 570750.921,6867605.26
+        570755.61,6867687.092 570783.315,6867768.842
+        570823.154,6867878.424 570786.771,6867949.714
+        570626.596,6867910.064 570655.082,6867852.801
+        570594.893,6867829.377 570626.302,6867751.142
+        570576.107,6867732.552 570598.631,6867673.399
+        570610.27,6867627.39 570628.545,6867539.301
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+
+   </geometrie>
+   <parcelles>
+    <parcelle>
+     <s2 numero-parcelle="1" localisee-indicative="true">
+      <culture code-culture="BH" />
+      <surface-declaree>600</surface-declaree>
+     </s2>
+     <geometrie>
+
+      <gml:Polygon srsName='0'>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing srsName='0'>
+      <gml:coordinates>
+570687.256,6867788.672 570697.256,6867788.672
+        570697.256,6867798.672 570687.256,6867798.672
+        570687.256,6867788.672
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+
+     </geometrie>
+    </parcelle>
+   </parcelles>
+  </ilot>
+  <ilot numero-ilot="4">
+   <commune>27027</commune>
+   <surface-reference>335</surface-reference>
+   <geometrie>
+
+    <gml:Polygon srsName='0'>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing srsName='0'>
+      <gml:coordinates>
+570598.454,6867652.214 570308.226,6867489.871
+        570358.504,6867394.879 570617.005,6867542.025
+        570612.661,6867570.005 570602.871,6867631.689
+        570598.454,6867652.214
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+
+   </geometrie>
+   <parcelles>
+    <parcelle>
+     <s2 numero-parcelle="1" localisee-indicative="true">
+      <culture code-culture="BH" />
+      <surface-declaree>335</surface-declaree>
+     </s2>
+     <geometrie>
+
+      <gml:Polygon srsName='0'>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing srsName='0'>
+      <gml:coordinates>
+570426.481,6867516.697 570436.481,6867516.697
+        570436.481,6867526.697 570426.481,6867526.697
+        570426.481,6867516.697
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+
+     </geometrie>
+    </parcelle>
+   </parcelles>
+  </ilot>
+  <ilot numero-ilot="5">
+   <commune>27027</commune>
+   <surface-reference>115</surface-reference>
+   <geometrie>
+
+    <gml:Polygon srsName='0'>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing srsName='0'>
+      <gml:coordinates>
+570023.938,6868274.72 570008.636,6868238.559
+        570074.437,6868207.439 570153.643,6868368.681
+        570058.569,6868350.575 570023.938,6868274.72
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+
+   </geometrie>
+   <parcelles>
+    <parcelle>
+     <s2 numero-parcelle="1" localisee-indicative="true">
+      <culture code-culture="BH" />
+      <surface-declaree>115</surface-declaree>
+     </s2>
+     <geometrie>
+
+      <gml:Polygon srsName='0'>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing srsName='0'>
+      <gml:coordinates>
+570068.606,6868317.441 570078.606,6868317.441
+        570078.606,6868327.441 570068.606,6868327.441
+        570068.606,6868317.441
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+
+     </geometrie>
+    </parcelle>
+   </parcelles>
+  </ilot>
+  <ilot numero-ilot="6">
+   <commune>27027</commune>
+   <surface-reference>43</surface-reference>
+   <geometrie>
+
+    <gml:Polygon srsName='0'>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing srsName='0'>
+      <gml:coordinates>
+570054.919,6868393.54 570068.702,6868356.447
+        570157.692,6868373.685 570180.706,6868373.493
+        570163.983,6868400.646 570157.105,6868413.646
+        570054.919,6868393.54
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+
+   </geometrie>
+   <parcelles>
+    <parcelle>
+     <s2 numero-parcelle="1" localisee-indicative="true">
+      <culture code-culture="BH" />
+      <surface-declaree>43</surface-declaree>
+     </s2>
+     <geometrie>
+
+      <gml:Polygon srsName='0'>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing srsName='0'>
+      <gml:coordinates>
+570102.222,6868386.355 570112.222,6868386.355
+        570112.222,6868396.355 570102.222,6868396.355
+        570102.222,6868386.355
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+
+     </geometrie>
+    </parcelle>
+   </parcelles>
+  </ilot>
+  <ilot numero-ilot="8">
+   <commune>27360</commune>
+   <surface-reference>125</surface-reference>
+   <geometrie>
+
+    <gml:Polygon srsName='0'>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing srsName='0'>
+      <gml:coordinates>
+569987.138,6869056.157 569972.222,6869134.483
+        569910.003,6869113.345 569911.78,6869078.291
+        569910.534,6869052.317 569910.335,6869028.383
+        569909.129,6869008.355 569921.864,6868970.352
+        570052.021,6869008.194 570043.469,6869038.309
+        569982.881,6869023.245 569983.017,6869039.536
+        569987.138,6869056.157
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+
+   </geometrie>
+   <parcelles>
+    <parcelle>
+     <s2 numero-parcelle="1" localisee-indicative="true">
+      <culture code-culture="BH" />
+      <surface-declaree>125</surface-declaree>
+     </s2>
+     <geometrie>
+
+      <gml:Polygon srsName='0'>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing srsName='0'>
+      <gml:coordinates>
+569940.774,6869043.485 569950.774,6869043.485
+        569950.774,6869053.485 569940.774,6869053.485
+        569940.774,6869043.485
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+
+     </geometrie>
+    </parcelle>
+   </parcelles>
+  </ilot>
+  <ilot numero-ilot="9">
+   <commune>27177</commune>
+   <surface-reference>61</surface-reference>
+   <geometrie>
+
+    <gml:Polygon srsName='0'>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing srsName='0'>
+      <gml:coordinates>
+570930.073,6866473.778 571004.738,6866515.75
+        571048.906,6866540.347 571034.189,6866574.479
+        570953.981,6866540.109 570906.868,6866519.544
+        570919.249,6866494.136 570930.073,6866473.778
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+
+   </geometrie>
+   <parcelles>
+    <parcelle>
+     <s2 numero-parcelle="1" localisee-indicative="true">
+      <culture code-culture="BH" />
+      <surface-declaree>61</surface-declaree>
+     </s2>
+     <geometrie>
+
+      <gml:Polygon srsName='0'>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing srsName='0'>
+      <gml:coordinates>
+570948.64,6866516.233 570958.64,6866516.233
+        570958.64,6866526.233 570948.64,6866526.233
+        570948.64,6866516.233
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+
+     </geometrie>
+    </parcelle>
+   </parcelles>
+  </ilot>
+ </rpg>
+ <demandes-aides-pilier1 certificat-environnemental="false">
+  <demandes-aides>
+   <demande-aide>01</demande-aide>
+   <demande-aide>15</demande-aide>
+  </demandes-aides>
+ </demandes-aides-pilier1>
+</producteur></producteurs>
